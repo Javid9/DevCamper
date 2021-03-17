@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cea50aee-1d49-4f98-9024-b6f558650e63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/bootcamps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Bootcamp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
@@ -78,6 +77,11 @@
       <workItem from="1614291493498" duration="819000" />
       <workItem from="1614361194897" duration="3572000" />
       <workItem from="1614422177169" duration="8578000" />
+      <workItem from="1615499169553" duration="3895000" />
+      <workItem from="1615589928558" duration="4750000" />
+      <workItem from="1615640887339" duration="6277000" />
+      <workItem from="1615985090537" duration="111000" />
+      <workItem from="1616014333791" duration="3539000" />
     </task>
     <servers />
   </component>
@@ -109,5 +113,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1420" height="216" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1614272718632" />
+    <state x="385" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1615673008566">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="385" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1615673008566" />
   </component>
 </project>
