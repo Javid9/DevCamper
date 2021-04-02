@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cea50aee-1d49-4f98-9024-b6f558650e63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/models/Bootcamp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Bootcamp.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Bootcamp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +79,10 @@
       <workItem from="1615589928558" duration="4750000" />
       <workItem from="1615640887339" duration="6277000" />
       <workItem from="1615985090537" duration="111000" />
-      <workItem from="1616014333791" duration="3539000" />
+      <workItem from="1616014333791" duration="4191000" />
+      <workItem from="1616323876699" duration="982000" />
+      <workItem from="1617104602690" duration="9134000" />
+      <workItem from="1617362155814" duration="6357000" />
     </task>
     <servers />
   </component>
