@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cea50aee-1d49-4f98-9024-b6f558650e63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/middleware/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seeder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/errorResponse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/geocoder.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/bootcamps.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/bootcamps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/Bootcamp.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Bootcamp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/bootcamps.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +91,19 @@
       <workItem from="1616014333791" duration="4191000" />
       <workItem from="1616323876699" duration="982000" />
       <workItem from="1617104602690" duration="9134000" />
-      <workItem from="1617362155814" duration="6357000" />
+      <workItem from="1617362155814" duration="11642000" />
+      <workItem from="1617398805174" duration="1690000" />
+      <workItem from="1617667420283" duration="3768000" />
+      <workItem from="1617703174120" duration="8992000" />
+      <workItem from="1617817784950" duration="4654000" />
+      <workItem from="1617970751223" duration="2109000" />
+      <workItem from="1617978014983" duration="2255000" />
+      <workItem from="1618163034224" duration="3841000" />
+      <workItem from="1618410011191" duration="6172000" />
+      <workItem from="1618505927751" duration="190000" />
+      <workItem from="1618729347316" duration="1451000" />
+      <workItem from="1618732551337" duration="3193000" />
+      <workItem from="1619031280375" duration="14259000" />
     </task>
     <servers />
   </component>
